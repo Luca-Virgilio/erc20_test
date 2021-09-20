@@ -1,0 +1,18 @@
+{
+  "name": "erc20_test",
+  "version": "0.0.1",
+  "description": "Smart contract to test functionality og ERC20",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.4.11",
+    "web3": "^1.5.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  }
+}
